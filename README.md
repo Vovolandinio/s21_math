@@ -1,9 +1,9 @@
 # s21_math
 
 # Content
-1.[Information](#1-information)
-2.[Function](#2-function)
-3.[Goal](#3-goal)
+1.[Information](#1-information) \
+2.[Function](#2-function) \
+3.[Goal](#3-goal) \
 4.[Build](#4-build)
 
 ## 1. Information
