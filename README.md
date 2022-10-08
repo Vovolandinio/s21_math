@@ -1,7 +1,10 @@
 # s21_math
 
 # Content
-
+1.[Information](#1-information)
+2.[Function](#2-function)
+3.[Goal](#3-goal)
+4.[Build](#4-build)
 
 ## 1. Information
 In this project, I will develop my own version of the `math.h` standard library in the `C` programming language. This library implements basic mathematical operations, which are then used in various algorithms.
